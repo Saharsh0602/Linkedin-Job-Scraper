@@ -1,0 +1,17 @@
+{
+  "name": "linkedin",
+  "version": "1.0.0",
+  "description": "\"Linkedin Jobs Scraper\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saharsh",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "linkedin-jobs-scraper": "^2.2.1",
+    "puppeteer": "^5.2.1"
+  }
+}
